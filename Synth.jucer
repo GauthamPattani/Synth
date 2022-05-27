@@ -7,6 +7,8 @@
               pluginAAXCategory="0" cppLanguageStandard="17">
   <MAINGROUP id="as880W" name="Synth">
     <GROUP id="{A4C25E21-3C6A-C3E0-6FE0-1475B7EC3018}" name="Source">
+      <FILE id="p7oHx7" name="Synth.cpp" compile="1" resource="0" file="Source/Synth.cpp"/>
+      <FILE id="sChxwW" name="Synth.h" compile="0" resource="0" file="Source/Synth.h"/>
       <FILE id="UqwM8x" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="opSTeF" name="PluginProcessor.h" compile="0" resource="0"
